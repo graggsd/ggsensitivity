@@ -5,9 +5,9 @@ Version: 0.1.0
 Author: Stephen Gragg
 Maintainer: Stephen Gragg <graggsd@uab.edu>
 Description: When an analysis may be performed with slight variations, it is 
-advantageous to check the impact of the variations on effect size and
-significance. This package adds some shortcuts to create plots of sensitivity
-analyses.
+    advantageous to check the impact of the variations on effect size and
+    significance. This package adds some shortcuts to create plots of 
+    sensitivity analyses.
 License: GPL-3 + file LICENSE
 Encoding: UTF-8
 LazyData: true
